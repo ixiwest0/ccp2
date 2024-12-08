@@ -22,3 +22,8 @@
 <p>[history]</p>
 <p>groth.py: 개체 별 생육데이터를 구하는 파일 중 하나</p>
 <p>groth.py 사용하다가 class로 변경하여 파일 생성</p>
+<p>[파일 설명]</p>
+<p>growth_class.py: 각 개체 별 생육 조사 결과</p>
+<p>date_growth.py.py: 각 날짜 별 개체들의 생육 조사 결과</p>
+<p>date_entire_growth.py.py: 각 개체들의 생육 조사 결과 통합</p>
+<p>pho.py.py: 내부 누적광량의 평균</p>
