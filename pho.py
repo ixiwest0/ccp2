@@ -29,7 +29,6 @@ def calculate_mean_accumulated_light(data, start, end):
     return mean_accumulated_light
 
 
-# 사용자가 선택한 기간
 start_date = "2024-11-08"
 end_date = "2024-11-14"
 
